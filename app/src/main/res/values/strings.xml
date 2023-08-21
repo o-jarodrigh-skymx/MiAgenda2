@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Mi Agenda</string>
+
+    //menu
+    <string name="lista_contactos">Lista de contactos</string>
+    <string name="agregar">Agregar contacto</string>
+    <string name="detalle">Detalle de contactos</string>
+
+    //detalle de contacto
+    <string name="nombre">Nombre</string>
+    <string name="apellido_paterno">Apellido paterno</string>
+    <string name="apellido_materno">Apellido materno</string>
+    <string name="telefono">Teléfono</string>
+    <string name="celular">Celular</string>
+    <string name="direccion">Dirección</string>
+    <string name="email">Correo electrónico</string>
+    <string name="fecha_nacimiento">Cumpleaños (dd/mm/aaaa)</string>
+    <string name="tipo">Tipo de contacto</string>
+
+    //direccion
+    <string name="calle">Calle</string>
+    <string name="exterior">No. Exterior</string>
+    <string name="interior">No. Interior</string>
+    <string name="colonia">Colonia</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="estado">Estado</string>
+    <string name="cp">Código postal</string>
+
+    //tipo de contacto
+    <string name="familiar">Familia</string>
+    <string name="amigo">Amigo</string>
+    <string name="no_special_char">qwertyuiopasdfghjklñzxcvbnmQWERTYUIOPASDFGHJKLÑZXCVBNM</string>
+    <string name="no_special_char2">qwertyuiopasdfghjklñzxcvbnmQWERTYUIOPASDFGHJKLÑZXCVBNM0123456789</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

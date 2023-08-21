@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/listadoContactos"
+        android:title="@string/lista_contactos"
+        android:icon="@drawable/ic_contactos">
+    </item>
+    <item
+        android:id="@+id/agregar"
+        android:title="@string/agregar"
+        android:icon="@drawable/ic_agregar_contacto">
+    </item>
+
+</menu>
